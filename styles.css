@@ -223,4 +223,12 @@ footer{
 	background-color: #ff4c68;
 }
 
+.navigation {
+	background-color: #fff;
+	font-family: 'Lilita One',cursive;
+	font-size:2rem;
+	padding-top: 20px;
+
+}
+
 }
