@@ -1,0 +1,155 @@
+body{
+	background-color: #ff4c68;
+	font-family: "Georgia";
+}
+
+h1{
+	width: 50%;
+	font-family: "impact";
+	font-weight: lighter;
+}
+
+h1.second-heading{
+	font-family: 'tahoma';
+
+}
+
+button{
+	border: 1px solid black;
+	border-radius: 50px;
+	color: #fff;
+	text-align: center;
+	font-weight: 800;
+	background-color: #ff4c68;
+}
+
+.para{
+	font-family: "berlin san FB";
+	font-size: 18px;
+	margin-top: 15px;
+	width: 50%;
+	line-height: 20px;
+}
+
+.second-div{
+	margin: 30px 40px 0px;
+	background-color: #fff;
+	padding-top: 0;
+	/*opacity: 0.8;*/
+}
+
+.title-but{
+	margin-left: 80px;
+}
+
+
+.block {
+	height: 300px;
+	width: 100%;
+	background-color: #fff;
+	position: relative;
+	bottom: 50px;
+	/*opacity: 0.8;*/
+}
+
+
+.inner-block{
+	color: #fff;
+	/*height: 350px;*/
+	/*position: relative;
+	bottom: 350px;*/
+	margin: 0 40px 10px;
+	background-color: #ff4c68;
+	/*opacity: 0.5;*/
+	padding-top: 20px;
+}
+
+.inner-block-but{
+	background-color: #fff;
+	color: #ff4c68;
+	margin-left: 80px;
+}
+
+.unique{
+	color: #ff4c68;
+}
+
+.navigation {
+	background-color: #fff;
+	padding-top: 20px;
+
+}
+
+.nav{
+	color: #ff4c68;
+	margin: 10px;
+}
+
+.flex-cont{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.share{
+	width: 50%;
+}
+
+.webcon{
+	height: 90%;
+	width: 250px;
+	position: absolute;
+	margin: 20px 100px;
+}
+
+.circle{
+	width: 65%;
+	height:350px;
+	border-radius: 50%;
+	background-color: #ff4c68;
+}
+
+.title-content{
+	color:  #ff4c68;
+	margin: 35px 0 100px 300px;
+	position: absolute;
+
+}
+
+.img-circle{
+	position: relative;
+	left: 800px;
+	margin: 50px 0;
+
+}
+
+.second-title{
+	margin: 80px 0 100px 300px;
+	position: absolute;
+	text-align: center;
+}
+
+.paragraph{
+	position: relative;
+	left: 800px;
+	margin: 20px 0;
+}
+
+.third-div{
+	background-color: #fff;
+	margin-top: 62px;
+}
+
+footer{
+	padding:7% 15%;
+	text-align: center;
+	color: grey;
+}
+
+.foot-icon{
+	margin: 15px 7px;
+}
+
+.foot-icon:hover{
+	width: 3%;
+}
