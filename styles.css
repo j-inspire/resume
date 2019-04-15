@@ -153,3 +153,58 @@ footer{
 .foot-icon:hover{
 	width: 3%;
 }
+
+/*media query*/
+
+@media (max-width: 1187px){
+
+	.title-content{
+	color:  #ff4c68;
+	margin: 0px 0 80px 90px;
+	position: absolute;
+}
+
+.my-title, .my-name{
+	text-align: center;
+}
+
+.title-but{
+	margin-left: 80px;
+	margin-top: 0;
+}
+
+.img-circle{
+	position: relative;
+	left: 450px;
+	margin: 50px 0;
+
+}
+
+.webcon{
+	height: 90%;
+	width: 250px;
+	position: absolute;
+	margin: 20px 25px;
+}
+
+.second-title{
+	margin: 80px 0 100px 90px;
+	position: absolute;
+	text-align: center;
+}
+
+.paragraph{
+	position: relative;
+	left: 500px;
+	margin: 20px 0;
+}
+
+.para{
+	font-family: "berlin san FB";
+	font-size: 18px;
+	margin-top: 6px;
+	width: 70%;
+	line-height: 20px;
+}
+
+}
